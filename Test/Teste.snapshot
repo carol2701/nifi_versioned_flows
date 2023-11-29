@@ -1673,6 +1673,32 @@
           } ],
           "remoteProcessGroups" : [ ],
           "variables" : { }
+        }, {
+          "comments" : "",
+          "componentType" : "PROCESS_GROUP",
+          "connections" : [ ],
+          "controllerServices" : [ ],
+          "defaultBackPressureDataSizeThreshold" : "1 GB",
+          "defaultBackPressureObjectThreshold" : 10000,
+          "defaultFlowFileExpiration" : "0 sec",
+          "flowFileConcurrency" : "UNBOUNDED",
+          "flowFileOutboundPolicy" : "STREAM_WHEN_AVAILABLE",
+          "funnels" : [ ],
+          "groupIdentifier" : "679ef955-4bc4-3d82-ba5f-39b2423ae3e5",
+          "identifier" : "4644a08d-9a64-3089-826f-a4499b83ecc1",
+          "inputPorts" : [ ],
+          "instanceIdentifier" : "1c4bbb13-018c-1000-93e2-017d4baa15b5",
+          "labels" : [ ],
+          "name" : "Novo PG",
+          "outputPorts" : [ ],
+          "position" : {
+            "x" : 536.0,
+            "y" : -152.0
+          },
+          "processGroups" : [ ],
+          "processors" : [ ],
+          "remoteProcessGroups" : [ ],
+          "variables" : { }
         } ],
         "processors" : [ ],
         "remoteProcessGroups" : [ ],

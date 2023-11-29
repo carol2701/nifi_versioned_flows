@@ -1,5 +1,5 @@
 flows:
-  23ee1aa8-8383-4bd1-9449-5a10a442719f: {ver: 1, file: Teste.snapshot, comments: '',
-    author: 'CN=sys_admin, OU=NIFI', created: 1701281747973, flowName: Teste, flowDesc: ''}
+  23ee1aa8-8383-4bd1-9449-5a10a442719f: {ver: 2, file: Teste.snapshot, comments: '',
+    author: 'CN=sys_admin, OU=NIFI', created: 1701281798197, flowName: Teste, flowDesc: ''}
 layoutVer: 1
 bucketId: aac5e75a-905d-4882-be82-1d046e932b85
